@@ -1,6 +1,4 @@
-This repository contains the design and verification of a 32-bit ALU implemented in Verilog. The verification environment is built using cocotb, enabling Python-driven simulation and constrained-random testing.
-
-The ALU supports multiple operations such as addition, subtraction, and logical functions, with a focus on correctness, scalability, and clean modular design.
+This repository contains the design and verification of a ALU implemented in Verilog. The verification environment is built using cocotb, enabling Python-driven simulation and constrained-random testing.
 
 The verification flow includes:
 
